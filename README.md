@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=blueviolet" />
-  <a href="https://luro.lol"><img src="https://img.shields.io/badge/Portfolio-luro.lol-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://unlag.pro"><img src="https://img.shields.io/badge/Unlag-unlag.pro-7C3AED?style=flat-square&logo=windows&logoColor=white" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=0ser999&style=flat-square&color=blueviolet" />
+  <a href="https://luro.lol"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-luro.lol-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://unlag.pro"><img alt="Unlag" src="https://img.shields.io/badge/Unlag-unlag.pro-7C3AED?style=flat-square&logo=windows&logoColor=white" /></a>
 </p>
 
 ---
@@ -28,6 +28,7 @@
 
 ### 🖥️ [Unlag](https://unlag.pro): PC Optimizer
 > A Windows 10/11 optimizer that cleans, tunes and speeds up your PC in a few clicks.
+
 - Debloat, latency tweaks, startup and service management
 - Lifetime license system
 - AI-powered support chat
@@ -36,12 +37,14 @@
 
 ### 🤖 Discord Bots
 > Moderation, anti-scam and automation bots with a web dashboard.
+
 - Auto-moderation, logs, warnings, scam detection
 - Custom features built to fit each server
 - Private projects, not publicly listed
 
 ### 🎨 Design
 > Interfaces, game GUIs, landing pages and brand identities.
+
 - Everything designed in Figma, pixel-perfect and consistent
 
 🔗 **[See the full portfolio → luro.lol](https://luro.lol)**
@@ -50,8 +53,8 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,react,firebase,git,github,figma,windows,powershell&perline=7" />
+<p align="center">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,react,firebase,git,github,figma,windows,powershell&perline=7" />
 </p>
 
 ---
@@ -61,8 +64,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0ser999/0ser999/output/github-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/0ser999/0ser999/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0ser999/0ser999/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/0ser999/0ser999/output/github-snake.svg" />
   </picture>
 </p>
 
-<p align="center"><a href="https://luro.lol">luro.lol</a></p>
+<p align="center">
+  <a href="https://luro.lol">luro.lol</a>
+</p>
