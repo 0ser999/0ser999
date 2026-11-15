@@ -56,11 +56,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://ghchart.rshah.org/7C3AED/0ser999" alt="GitHub contributions" />
 </p>
 
 <p align="center"><a href="https://luro.lol">luro.lol</a></p>
