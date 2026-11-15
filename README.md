@@ -1,9 +1,11 @@
-<h1 align="center">Luro</h1>
-<h3 align="center">PC Optimization • Discord Bots • Pure Design</h3>
+<p align="center">
+  <img width="100%" alt="Luro banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:000000&height=200&section=header&text=Luro&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PC%20Optimization%20%E2%80%A2%20Discord%20Bots%20%E2%80%A2%20Pure%20Design&descAlignY=55&descSize=18" />
+</p>
 
 <p align="center">
-  I build fast Windows tools, custom Discord bots, and clean interfaces.<br/>
-  Performance and design, in everything I make.
+  <a href="https://luro.lol">
+    <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=I+build+fast+Windows+tools+%E2%9A%A1;Custom+Discord+bots+%F0%9F%A4%96;Clean+interfaces+%F0%9F%8E%A8;Performance+%2B+Design" />
+  </a>
 </p>
 
 <p align="center">
@@ -59,7 +61,20 @@
 
 ---
 
-## 📊 Activity
+## 📊 Stats
+
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=0ser999&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED" />
+  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=0ser999&theme=radical&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+</p>
+
+<p align="center">
+  <img width="100%" alt="3D contributions" src="https://raw.githubusercontent.com/0ser999/0ser999/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
+
+## 🐍 Activity
 
 <p align="center">
   <picture>
@@ -71,4 +86,8 @@
 
 <p align="center">
   <a href="https://luro.lol">luro.lol</a>
+</p>
+
+<p align="center">
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7C3AED&height=120&section=footer" />
 </p>
