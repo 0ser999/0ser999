@@ -59,7 +59,10 @@
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7C3AED/0ser999" alt="GitHub contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0ser999/0ser999/output/github-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/0ser999/0ser999/output/github-snake.svg" />
+  </picture>
 </p>
 
 <p align="center"><a href="https://luro.lol">luro.lol</a></p>
