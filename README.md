@@ -1,17 +1,20 @@
 <p align="center">
-  <img width="100%" alt="Luro banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:9CA3AF&height=200&section=header&text=Luro&fontSize=70&fontColor=111111&animation=fadeIn&fontAlignY=35&desc=PC%20Optimization%20%E2%80%A2%20Discord%20Bots%20%E2%80%A2%20Pure%20Design&descAlignY=55&descSize=18" />
+  <img width="100%" alt="Luro banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFAFA,100:E5E7EB&height=200&section=header&text=Luro&fontSize=70&fontColor=111111&animation=fadeIn&fontAlignY=35&desc=PC%20Optimization%20%E2%80%A2%20Discord%20Bots%20%E2%80%A2%20Pure%20Design&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://luro.lol">
-    <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=I+build+fast+Windows+tools+%E2%9A%A1;Custom+Discord+bots+%F0%9F%A4%96;Clean+interfaces+%F0%9F%8E%A8;Performance+%2B+Design" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFAFA&center=true&vCenter=true&width=500&lines=I+build+fast+Windows+tools+%E2%9A%A1;Custom+Discord+bots+%F0%9F%A4%96;Clean+interfaces+%F0%9F%8E%A8;Performance+%2B+Design" />
+      <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=I+build+fast+Windows+tools+%E2%9A%A1;Custom+Discord+bots+%F0%9F%A4%96;Clean+interfaces+%F0%9F%8E%A8;Performance+%2B+Design" />
+    </picture>
   </a>
 </p>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=0ser999&style=flat-square&color=blueviolet" />
-  <a href="https://luro.lol"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-luro.lol-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://unlag.pro"><img alt="Unlag" src="https://img.shields.io/badge/Unlag-unlag.pro-7C3AED?style=flat-square&logo=windows&logoColor=white" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=0ser999&style=flat-square&color=lightgrey" />
+  <a href="https://luro.lol"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-luro.lol-FFFAFA?style=flat-square&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://unlag.pro"><img alt="Unlag" src="https://img.shields.io/badge/Unlag-unlag.pro-FFFAFA?style=flat-square&logo=windows&logoColor=black" /></a>
 </p>
 
 ---
@@ -64,12 +67,11 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=0ser999&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED" />
-  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=0ser999&theme=radical&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=0ser999&theme=dark&hide_border=true&background=0D1117&ring=FFFAFA&fire=FFFAFA&currStreakLabel=FFFAFA&sideLabels=FFFAFA&currStreakNum=FFFAFA&sideNums=FFFAFA&dates=9CA3AF&stroke=30363D" />
 </p>
 
 <p align="center">
-  <img width="100%" alt="3D contributions" src="https://raw.githubusercontent.com/0ser999/0ser999/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img width="100%" alt="3D contributions" src="https://raw.githubusercontent.com/0ser999/0ser999/main/profile-3d-contrib/profile-night-view.svg" />
 </p>
 
 ---
@@ -89,5 +91,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:9CA3AF,100:FFFFFF&height=120&section=footer" />
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,100:FFFAFA&height=120&section=footer" />
 </p>
