@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="Luro banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:000000&height=200&section=header&text=Luro&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PC%20Optimization%20%E2%80%A2%20Discord%20Bots%20%E2%80%A2%20Pure%20Design&descAlignY=55&descSize=18" />
+  <img width="100%" alt="Luro banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:9CA3AF&height=200&section=header&text=Luro&fontSize=70&fontColor=111111&animation=fadeIn&fontAlignY=35&desc=PC%20Optimization%20%E2%80%A2%20Discord%20Bots%20%E2%80%A2%20Pure%20Design&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
@@ -89,5 +89,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7C3AED&height=120&section=footer" />
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:9CA3AF,100:FFFFFF&height=120&section=footer" />
 </p>
