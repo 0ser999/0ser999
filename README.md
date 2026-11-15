@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://luro.lol">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFAFA&center=true&vCenter=true&width=500&lines=I+build+fast+Windows+tools+%E2%9A%A1;Custom+Discord+bots+%F0%9F%A4%96;Clean+interfaces+%F0%9F%8E%A8;Performance+%2B+Design" />
-      <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=I+build+fast+Windows+tools+%E2%9A%A1;Custom+Discord+bots+%F0%9F%A4%96;Clean+interfaces+%F0%9F%8E%A8;Performance+%2B+Design" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFAFA&center=true&vCenter=true&width=500&lines=I+build+fast+Windows+tools;Custom+Discord+bots;Clean+interfaces;Performance+%2B+Design" />
+      <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=I+build+fast+Windows+tools;Custom+Discord+bots;Clean+interfaces;Performance+%2B+Design" />
     </picture>
   </a>
 </p>
@@ -19,44 +19,44 @@
 
 ---
 
-## ⚡ What I do
+## <img src="https://api.iconify.design/lucide/zap.svg?color=%23FFFAFA" height="24" /> What I do
 
 | | |
 |---|---|
-| 🖥️ **PC Optimization** | Windows 10/11 tools that cut input lag, boost FPS and remove bloat |
-| 🤖 **Discord Bots** | Custom moderation and automation bots, built on demand |
-| 🎨 **Design** | UI/UX, branding and clean interfaces, from Figma to production |
+| <img src="https://api.iconify.design/lucide/monitor.svg?color=%23FFFAFA" height="18" /> **PC Optimization** | Windows 10/11 tools that cut input lag, boost FPS and remove bloat |
+| <img src="https://api.iconify.design/lucide/bot.svg?color=%23FFFAFA" height="18" /> **Discord Bots** | Custom moderation and automation bots, built on demand |
+| <img src="https://api.iconify.design/lucide/palette.svg?color=%23FFFAFA" height="18" /> **Design** | UI/UX, branding and clean interfaces, from Figma to production |
 
 ---
 
-## 🚀 Featured
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23FFFAFA" height="24" /> Featured
 
-### 🖥️ [Unlag](https://unlag.pro): PC Optimizer
+### <img src="https://api.iconify.design/lucide/monitor.svg?color=%23FFFAFA" height="20" /> [Unlag](https://unlag.pro): PC Optimizer
 > A Windows 10/11 optimizer that cleans, tunes and speeds up your PC in a few clicks.
 
 - Debloat, latency tweaks, startup and service management
 - Lifetime license system
 - AI-powered support chat
 
-🔗 **[unlag.pro](https://unlag.pro)**
+<img src="https://api.iconify.design/lucide/link.svg?color=%23FFFAFA" height="16" /> **[unlag.pro](https://unlag.pro)**
 
-### 🤖 Discord Bots
+### <img src="https://api.iconify.design/lucide/bot.svg?color=%23FFFAFA" height="20" /> Discord Bots
 > Moderation, anti-scam and automation bots with a web dashboard.
 
 - Auto-moderation, logs, warnings, scam detection
 - Custom features built to fit each server
 - Private projects, not publicly listed
 
-### 🎨 Design
+### <img src="https://api.iconify.design/lucide/palette.svg?color=%23FFFAFA" height="20" /> Design
 > Interfaces, game GUIs, landing pages and brand identities.
 
 - Everything designed in Figma, pixel-perfect and consistent
 
-🔗 **[See the full portfolio → luro.lol](https://luro.lol)**
+<img src="https://api.iconify.design/lucide/link.svg?color=%23FFFAFA" height="16" /> **[See the full portfolio → luro.lol](https://luro.lol)**
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23FFFAFA" height="24" /> Tech Stack
 
 <p align="center">
   <img alt="Tech stack" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,react,firebase,git,github,figma,windows,powershell&perline=7" />
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 Stats
+## <img src="https://api.iconify.design/lucide/trending-up.svg?color=%23FFFAFA" height="24" /> Stats
 
 <p align="center">
   <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=0ser999&theme=dark&hide_border=true&background=0D1117&ring=FFFAFA&fire=FFFAFA&currStreakLabel=FFFAFA&sideLabels=FFFAFA&currStreakNum=FFFAFA&sideNums=FFFAFA&dates=9CA3AF&stroke=30363D" />
@@ -76,7 +76,7 @@
 
 ---
 
-## 🐍 Activity
+## <img src="https://api.iconify.design/mdi/snake.svg?color=%23FFFAFA" height="24" /> Activity
 
 <p align="center">
   <picture>
